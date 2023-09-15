@@ -1,1 +1,1 @@
-# newReactText-app
+# newsReactText-app
